@@ -23,7 +23,7 @@
     </div><br><hr class="topline" style="color: blue;">
     <center>
     <div class="mahpic"><br> <!--my photo area-->
-      <img src="Akbarsha_img.jpg" style="height: 200px; size-adjust: 100vh;">
+      <img src="sha.jpg" style="height: 200px; size-adjust: 100vh;">
       <h2 class="myname"><span>AKBARSHA N</span></h2><br>
       <h3 class="picabvco">Iam Pursing BSc Computer Science with Cyber Security.<br>I have basic knowledge of Cyber Security, Networking, Ethical Hacker, HTML & CSS.</h3>
     </div><br>
